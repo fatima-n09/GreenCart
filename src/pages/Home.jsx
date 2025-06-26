@@ -13,6 +13,7 @@ const Home = () => {
 <BottomBanner/>
 <NewsLetter/>
 
+
     </div>
   )
 }
